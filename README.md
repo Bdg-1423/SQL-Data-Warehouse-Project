@@ -4,7 +4,7 @@
 
 **PROJECT OVERVIEW**:
 
-**This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics*
+**This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics
 -----
 
 **Building a SQL Data Warehouse Project requires careful planning and a clear understanding of the business needs. Here's a rundown of the best requirements to ensure your project is successful**
