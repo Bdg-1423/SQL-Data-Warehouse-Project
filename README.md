@@ -1,4 +1,4 @@
-## SQL-DATA-WAREHOUSE-PROJECT##
+ ##SQL-DATA-WAREHOUSE-PROJECT
 
 **Building a modern Data Warehouse with SQL Server, including ETL process, Data Modeling, Transformation and Analytics**
 
@@ -9,11 +9,15 @@
 
 **Building a SQL Data Warehouse Project requires careful planning and a clear understanding of the business needs. Here's a rundown of the best requirements to ensure your project is successful**
 
-**SQL DATA WAREHOUSE REQUIREMENTS**
+
 
 ***OBJECTIVE DEFINITION**:
 Clearly define the goals and objectives of the data warehouse.
 Identify the business questions the data warehouse aims to answer.
+--**Customer Behavior**
+--**Product Performance**
+--**Sales Trends**
+
 
 **DATA SOURCES**:
 Identify and document all data sources (e.g., ERP, CRM, sales systems).
@@ -55,4 +59,4 @@ Ensure users have the necessary skills and training to utilize the data warehous
 This project is licensed under MIT LICENSE: Feel free to use, modify and share this project with proper attribution.
 
 **ABOUT ME**
-**BIO**: Data Engineer | Passionate About Data Transformation | SQL and Python Enthusiast
+**BIO**: Data Engineer | Passionate About Data Transformation | SQL and Python| AI |Cloud Computing
