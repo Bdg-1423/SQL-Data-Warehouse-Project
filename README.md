@@ -17,10 +17,13 @@ Welcome to the SQL Data Warehouse Project! This repository is designed to showca
 
  **This project involves**
 
-1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-2. ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+-Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+
+-ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+
+-Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+
+-Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
    
 🎯 This Project showcases Data skills in the following Tech fields:
 
@@ -71,7 +74,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 **Lets Connect and Collaborate****
 
-Data is the New Oil or New Gold and it's everywhere!
+Data is the New Oil or the New Gold and it's everywhere!!!!!!!!!!!!!!!!!!
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛡️ License
@@ -83,6 +86,7 @@ ________________________________________________________________________________
 🚀 Data Engineer | SQL | Python | Cloud Computing | AI Enthusiast
 
 Welcome to my GitHub! I’m a passionate Data Engineer with a strong background in designing scalable data solutions, optimizing workflows, and leveraging cutting-edge technologies to transform raw data into valuable insights.
+
 💡 What I Do:
 - Data Engineering: Building robust and scalable data pipelines for efficient processing.
 - SQL & Databases: Crafting optimized queries, designing database schemas, and ensuring data integrity.
@@ -94,7 +98,7 @@ Welcome to my GitHub! I’m a passionate Data Engineer with a strong background 
 - 🌐 Portfolio
 - 💼 LinkedIn
 - ✉️ Email
-- Feel free to explore my repositories, contribute, and reach out—I love discussing all things Data!🚀
+- 🚀Feel free to explore my repositories, contribute, and reach out—I love discussing all things Data!
 
 
 
