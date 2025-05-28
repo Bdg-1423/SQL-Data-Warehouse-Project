@@ -71,14 +71,10 @@ Customer Behavior
 Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________
-**Lets Connect and Collaborate****
-
-Data is the New Oil or the New Gold and it's everywhere!!!!!!!!!!!!!!!!!!
-____________________________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attributions
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👋 Hi, I'm SUWI SIMWENDO
