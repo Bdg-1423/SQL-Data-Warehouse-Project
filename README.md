@@ -89,12 +89,13 @@ Welcome to my GitHub! I’m a passionate Data Engineer with a strong background 
 - Python & Automation: Developing efficient scripts for data transformation, ETL, and analytics.
 - Cloud Computing: Architecting and deploying data solutions on cloud platforms like AWS, Azure, and GCP.
 - AI & Machine Learning: Applying AI techniques to uncover patterns, automate processes, and drive innovation.
-- 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________ 
 🔗 Connect With Me:
 - 🌐 Portfolio
 - 💼 LinkedIn
 - ✉️ Email
 - 🚀Feel free to explore my repositories, contribute, and reach out—I love discussing all things Data!
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
